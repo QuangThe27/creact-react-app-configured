@@ -10,6 +10,7 @@
     "react-basic": "file:",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
+    "react-toastify": "8.0.2",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
